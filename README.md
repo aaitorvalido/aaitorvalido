@@ -64,7 +64,7 @@ perfil:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaitorvalido&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
+<img height="180em" src="github-readme-stats-aitor.vercel.app"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaitorvalido&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9"/>
 
 <br/>
