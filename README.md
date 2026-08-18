@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW90NjNlZGhuNnp3NmlyN2MzMTA1a3AzenpjNGxvam16M25iamR6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW90NjNlZGhuNnp3NmlyN2MzMTA1a3AzenpjNGxvam16M25iamR6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" autoplay loop width="300"/>
 
 ```yaml
 perfil:
