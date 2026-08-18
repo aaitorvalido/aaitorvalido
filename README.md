@@ -1,86 +1,144 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aaitorvalido&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=aaitorvalido&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Aitor Valido" />
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/aaitorvalido?tab=repositories"><b>Proyectos</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com">GitSkins</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hola,%20soy%20Aitor&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20DAM%20%7C%20Full%20Stack%20Developer%20en%20construcción&descAlignY=55&descSize=18"/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=aaitorvalido&theme=aurora&label=Aitor%20Valido" width="100%" alt="Animated 3D wordmark for Aitor Valido" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Estudiante+de+DAM+%F0%9F%93%9A;Node+%7C+React+%7C+Java+%7C+TypeScript;Docker+%7C+AWS+%7C+PostgreSQL+%7C+MongoDB;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%E2%9C%A8"/>
 
-## Desarrollando soluciones web modernas y escalables
+</div>
 
-Soy estudiante de Ingeniería de Software y Desarrollo de Aplicaciones Multiplataforma (DAM). Mi trabajo se centra en el desarrollo Full-Stack, construyendo aplicaciones interactivas, herramientas de gestión y plataformas web dinámicas. 
+<br/>
 
-Me apasiona crear sistemas robustos y convertir lógicas complejas en interfaces claras. Para ello, trabajo principalmente con lenguajes como **Java, JavaScript y TypeScript**, y gestiono el almacenamiento de datos utilizando **PostgreSQL**.
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/general_boost.gif" width="100%">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=aaitorvalido&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=aaitorvalido&theme=aurora&mode=dark" width="100%" alt="About Aitor Valido" />
-  </picture>
-</p>
+<br/><br/>
 
-## Proyectos destacados
+## 🧑‍💻 Sobre mí
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=aaitorvalido&theme=aurora" width="100%" alt="Selected projects by Aitor Valido" />
-</p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-| Proyecto | Descripción |
-| --- | --- |
-| [TypeZen](#) | Plataforma web de mecanografía con generación dinámica de texto y seguimiento de progreso. |
-| [KS Studio](#) | Diseño de sitio web personalizado y panel de gestión integral para una empresa de serigrafía. |
-| [Gxfre](#) | Herramienta de calendario interactivo y programación de streams con sistema de autenticación de Twitch. |
-| [App de Inventario](#) | Aplicación para gestionar listas de compras y almacenamiento de recibos. |
+```yaml
+perfil:
+  nombre: Aitor
+  formacion: Desarrollo de Aplicaciones Multiplataforma (DAM)
+  enfoque: Full Stack Development
+  stack_actual:
+    frontend: [React, JavaScript, TypeScript]
+    backend: [Node.js, Java]
+    bases_de_datos: [PostgreSQL, MongoDB]
+    devops_cloud: [Docker, AWS]
+  objetivo: >
+    Consolidarme como desarrollador Full Stack,
+    dominando tanto el frontend como el backend
+    y las herramientas de despliegue en la nube.
+  intereses: [videojuegos web, typing games, diseño arctic/glassmorphism]
+```
 
-<p align="center">
-  <a href="https://github.com/aaitorvalido?tab=repositories"><b>Explorar más proyectos</b></a>
-</p>
+- 🎓 Actualmente cursando **DAM**, construyendo bases sólidas en programación y arquitectura de software.
+- 🌐 Enfocado en convertirme en desarrollador **Full Stack**, con proyectos reales de frontend, backend, bases de datos y despliegue.
+- 🕹️ Me encanta crear experiencias web interactivas — sobre todo juegos de escritura con temática ártica.
+- 📈 Aprendiendo constantemente sobre buenas prácticas, arquitectura limpia y despliegue en la nube con **AWS** y **Docker**.
 
-## Stack tecnológico y estadísticas
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+## 🛠️ Stack Tecnológico
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=aaitorvalido&theme=aurora" width="100%" alt="GitHub activity stats for Aitor Valido" />
-</p>
+<div align="center">
 
-## Actividad de contribuciones
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
 
-El siguiente gráfico refleja mi actividad pública y contribuciones continuas en código. Se actualiza automáticamente de forma visual.
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,java,express&theme=dark" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aaitorvalido&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=aaitorvalido&theme=aurora&style=terminal&mode=dark" width="100%" alt="Aitor Valido heatmap" />
-  </picture>
-</p>
+### Bases de Datos
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 
-## Enfoque actual
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark" />
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=aaitorvalido&theme=aurora&items=Lenguajes::Java,%20JavaScript%20y%20TypeScript|Bases%20de%20Datos::PostgreSQL" width="100%" alt="Current focus areas for Aitor Valido" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/aaitorvalido?tab=repositories">Ver todos los repositorios</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.gitskins.com/readme-generator">Construye un perfil como este</a>
-</p>
+<br/>
 
-<p align="center">
-  <sub>Diseñado con GitSkins. Construido en público.</sub>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true"/>
+
+</div>
+
+> ⚠️ Recuerda reemplazar `TU_USUARIO` por tu nombre de usuario real de GitHub en todos los widgets de arriba.
+
+<br/>
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF" />
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF" />
+</a>
+
+</div>
+
+> 💡 Sustituye `NOMBRE_REPO_1` / `NOMBRE_REPO_2` por los repos que quieras destacar (por ejemplo, tus juegos de typing con temática ártica).
+
+<br/>
+
+## 🌱 Actualmente aprendiendo
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/-Cloud%20Architecture%20(AWS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Contenedores%20avanzados-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript%20avanzado-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java%20%2F%20Spring-007396?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📫 Conecta conmigo
+
+<div align="center">
+
+<a href="mailto:TU_EMAIL@ejemplo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/TU_USUARIO">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Snake animation](https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=00E5FF&style=flat-square"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
