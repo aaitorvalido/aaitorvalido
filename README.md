@@ -19,7 +19,7 @@
 
 Soy estudiante de Ingeniería de Software y Desarrollo de Aplicaciones Multiplataforma (DAM). Mi trabajo se centra en el desarrollo Full-Stack, construyendo aplicaciones interactivas, herramientas de gestión y plataformas web dinámicas. 
 
-Me apasiona crear sistemas robustos y convertir lógicas complejas en interfaces claras. Para ello, trabajo habitualmente con un stack variado que incluye **Java, JavaScript, TypeScript y Python**, apoyándome en frameworks como **Next.js, React y Node.js**. En el lado de los datos y la infraestructura, gestiono bases de datos relacionales como **PostgreSQL** y exploro arquitecturas en la nube utilizando **AWS y Docker**.
+Me apasiona crear sistemas robustos y convertir lógicas complejas en interfaces claras. Para ello, trabajo principalmente con lenguajes como **Java, JavaScript y TypeScript**, y gestiono el almacenamiento de datos utilizando **PostgreSQL**.
 
 <p align="center">
   <picture>
@@ -36,10 +36,10 @@ Me apasiona crear sistemas robustos y convertir lógicas complejas en interfaces
 
 | Proyecto | Descripción |
 | --- | --- |
-| [TypeZen](https://github.com/aaitorvalido/typezen) | Plataforma web de mecanografía con generación dinámica de texto, seguimiento de progreso y arquitectura en Next.js. |
-| [KS Studio](https://github.com/aaitorvalido/ks-studio) | Diseño de sitio web personalizado y panel de gestión integral para una empresa de serigrafía. |
-| [Gxfre](https://github.com/aaitorvalido/gxfre) | Herramienta de calendario interactivo y programación de streams con sistema de autenticación de Twitch. |
-| [App de Inventario](https://github.com/aaitorvalido/inventario) | Aplicación Full-Stack (Node/Express y React) para gestionar listas de compras y almacenamiento de recibos. |
+| [TypeZen](#) | Plataforma web de mecanografía con generación dinámica de texto y seguimiento de progreso. |
+| [KS Studio](#) | Diseño de sitio web personalizado y panel de gestión integral para una empresa de serigrafía. |
+| [Gxfre](#) | Herramienta de calendario interactivo y programación de streams con sistema de autenticación de Twitch. |
+| [App de Inventario](#) | Aplicación para gestionar listas de compras y almacenamiento de recibos. |
 
 <p align="center">
   <a href="https://github.com/aaitorvalido?tab=repositories"><b>Explorar más proyectos</b></a>
@@ -69,7 +69,7 @@ El siguiente gráfico refleja mi actividad pública y contribuciones continuas e
 ## Enfoque actual
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=aaitorvalido&theme=aurora&items=Frontend::JavaScript,%20TypeScript%20y%20Next.js|Backend::Java,%20Node.js%20y%20PostgreSQL|Infraestructura::Docker,%20AWS%20y%20Cloud" width="100%" alt="Current focus areas for Aitor Valido" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=aaitorvalido&theme=aurora&items=Lenguajes::Java,%20JavaScript%20y%20TypeScript|Bases%20de%20Datos::PostgreSQL" width="100%" alt="Current focus areas for Aitor Valido" />
 </p>
 
 <p align="center">
