@@ -68,8 +68,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-aitor.vercel.app"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaitorvalido&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-aitor.vercel.app/api?username=aaitorvalido&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&count_private=true&hide_rank=true"/>
+<img height="180em" src="https://github-readme-stats-aitor.vercel.app/api/top-langs/?username=aaitorvalido&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&hide=c,cython,css,c%2B%2B,fortran"/>
 
 <br/>
 
@@ -80,8 +80,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaitorvalido&theme=tokyo-night&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true"/>
 
 </div>
-
-## <img src="https://api.iconify.design/lucide:book-open.svg?color=%2300E5FF" width="28" align="center" /> Actualmente aprendiendo
+<img src="https://api.iconify.design/lucide:book-open.svg?color=%2300E5FF" width="28" align="center" /> Actualmente aprendiendo
 
 <div align="center">
 
@@ -99,16 +98,13 @@
 <div align="center">
 
 <a href="https://portafolio-aitorvalido.vercel.app/">
-<img src="https://img.shields.io/badge/Portafolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117&textColor=0d1117"/>
+<img src="https://img.shields.io/badge/Portafolio-44403B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:aaitorcode@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aitor-valido-gonzalez-b5601b415/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/aaitorvalido">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -124,7 +120,9 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=aaitorvalido&label=Visitas%20al%20perfil&color=00E5FF&style=flat-square"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%3E_Imaginando+soluciones...;%3E_Escribiendo+codigo...;%3E_Desplegando+ideas...;Construyendo+la+web+del+futuro" alt="Typing footer" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
