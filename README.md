@@ -117,7 +117,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/aaitorvalido/aaitorvalido/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
