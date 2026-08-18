@@ -48,7 +48,10 @@ Me apasiona crear sistemas robustos y convertir lógicas complejas en interfaces
 ## Stack tecnológico y estadísticas
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=aaitorvalido&theme=aurora" width="100%" alt="Technology stack for Aitor Valido" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 <p align="center">
