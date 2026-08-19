@@ -73,7 +73,6 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaitorvalido&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
 
 <br/><br/>
 
